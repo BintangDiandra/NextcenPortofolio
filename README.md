@@ -1,4 +1,4 @@
-Ini adalah Website Portofolio pertama saya menggunakan Tailwindcss (UtillityCss)
+- Ini adalah Website Portofolio pertama saya menggunakan Tailwindcss (UtilityCss) -
 Update Version 0.1 
 *Add Struktur Background Biar tidak kosong, Add Blog.html*
 
